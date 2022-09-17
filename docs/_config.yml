@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: sttp.javaapi
+description: Streaming Telemetry Transport Protocol (STTP) Java API
+github:
+  repository_name: sttp.javaapi
+  owner_url: https://www.gridprotectionalliance.org
+  owner_name: Grid Protection Alliance
+plugins:
+  - jemoji
